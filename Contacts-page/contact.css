@@ -1,0 +1,15 @@
+
+body {
+    height: 100vh;
+}
+
+main {
+    margin: 10rem 5rem;
+}
+
+main a:hover {
+    opacity: 0.3;
+}
+
+
+
